@@ -13,6 +13,8 @@ In the last step, the results are visualized as a color-coded tree diagram and a
 ## About this Repo
 This repo serves as the container of the data and the codes used in the analyses.  Near the end of the project, the repo may also contain drafts of the journal paper(s) generated from this project.
 
+The project is highly dependent on previous results and codes from the [Dryads project](https://github.com/hopehhchen/Dryads).  The GitHub repo for the Dryads project will remain as a container for the codes and a potential site to be developed into a stand-alone Python package, while this repo will be the main container for the analyses carried out in the dendro-contour project.
+
 ## To-do
 1. Transfer the code from the [Dryads project](https://github.com/hopehhchen/Dryads) and make the code compatible with the simulation output in the real space.  (Mainly to make sure that the mask generating part works for both a 2D map and a 3D cube.)
 
