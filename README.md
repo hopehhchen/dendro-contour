@@ -2,7 +2,7 @@
 The dendrogram contouring project aims at providing a statistically sound tool to examine the distribution of various physical properties of structures at different scales.  The goal is to be able to identify the hierarchical structures in the molecular clouds and to derive the physical properties not only of the dendrogram features but also for regions/volumes defined by incrementally increasing density contours.
 
 ## Structure of the Project
-The project is structured into a four-step process.  In the first step, the data are collected.  Acceptable data formats should include observations of column density and molecular line(s), simulated cube in the real (6D = PPP + Vx + Vy + Vz) space, and the synthetic observation of the simulations (again including the maps of column density and molecular line(s)).
+The analyses utilized in this project is structured into a four-step process.  In the first step, the data are collected.  Acceptable data formats should include observations of column density and molecular line(s), simulated cube in the real (6D = PPP + Vx + Vy + Vz) space, and the synthetic observation of the simulations (again including the maps of column density and molecular line(s)).
 
 In the second step, the dendrogram is run on the density map/cube.  The result should include a dictionary of masks associated with the dendrogram features.
 
